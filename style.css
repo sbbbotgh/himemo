@@ -1,0 +1,56 @@
+body {
+    text-align: center;
+    background: rgb(0, 255, 244);
+    background: linear-gradient(90deg, rgba(0, 255, 244, 1) 0%, rgba(255, 68, 219, 1) 100%);
+}
+
+#img21 {
+    border-radius: 70%;
+    width: 150px;
+}
+
+h1 {
+    text-shadow: 2px 2px #FFD6C0;
+    font-size: 20px;
+
+}
+
+p {
+    font-size: 15px;
+}
+
+.menu {
+    width: 100%;
+    position: fixed;
+    list-style: none;
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    color: black;
+
+}
+
+.link {
+    margin: 10px;
+    float: right;
+}
+
+.link:hover {
+    transform: scale(0.8);
+}
+
+.img12 {
+    width: 400px;
+}
+
+#aboutme {
+    padding: 20px;
+    font-size: 18;
+    text-align: center;
+}
+
+.line {
+    height: 6px;
+    background: black;
+    width: 70px;
+    margin: 8px auto;
+}
